@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just your friendly neighbour frontend fellow from NIT Kurukshetra 👋
 [![architChhajed06's GitHub | Stats](https://stats.quine.sh/architChhajed06/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=architChhajed06)
 <!--
 **architChhajed06/architChhajed06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
